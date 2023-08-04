@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header img {
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+section {
+    padding: 2rem;
+}
+
+#contact, #skills, #projects, #resume {
+    background-color: #f4f4f4;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
